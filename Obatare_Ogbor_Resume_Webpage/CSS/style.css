@@ -1,0 +1,43 @@
+#header{
+  background-color: hsl(195, 53%, 79%);
+  font-family: "Comic-Sans-MS", sans-serif;
+  font-size: 20px;
+  
+  
+  
+
+}
+
+#introduction{
+  background-color: hsla(240, 64%, 27%, 0.473);
+  font-family: "Arial-Narrow", sans-serif;
+}
+
+  
+#About_me, #My_Portfolio, #Contact{
+    background-color: hsla(195, 53%, 79%, 0.644);
+    font-family: "Comic-Sans-MS", sans-serif;
+    color: hsla(240, 64%, 27%, 0.473);
+}
+
+#courses{
+  color:hsla(240, 64%, 27%, 0.473)
+
+}
+
+#contact{
+  background-color: hsla(240, 64%, 27%, 0.473);
+  }
+
+
+
+
+#Education, #Work_Experience, #skills{
+  text-decoration: underline;
+}
+
+#phone, #email, #home, #linkedin{
+  font-family: "Arial-Narrow", sans-serif;
+  font-weight: bold;
+ }
+
